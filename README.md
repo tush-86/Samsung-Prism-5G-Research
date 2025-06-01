@@ -1,5 +1,6 @@
 # Samsung-Prism-5G-Research
 This repository supports a collaborative research initiative under the Samsung PRISM program, focusing on the intersection of 5G/6G security, Post-Quantum Cryptography (PQC), and AI-driven analytics using NWDAF (Network Data Analytics Function).
+
 🔍 Project Objective:
 
 To design and prototype an AI-based framework for real-time, secure call authentication and fraud prevention in next-generation networks. The system leverages:
@@ -22,4 +23,4 @@ To design and prototype an AI-based framework for real-time, secure call authent
 
 👥 Team:
 
-A collaborative effort by students and mentors under the Samsung PRISM program.
+A collaborative effort by students and faculty of Manipal Institute of Technology and mentors under the Samsung PRISM program.
